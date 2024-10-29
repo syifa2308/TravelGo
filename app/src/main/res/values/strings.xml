@@ -1,6 +1,57 @@
 <resources>
-    <string name="app_name">TravelGo</string>
+    <!-- App Title -->
+    <string name="app_name">Travel Go</string>
+
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <!-- Teks Tombol -->
+    <string name="button_get_start">Get Start!</string>
+
+    <!-- Greeting -->
+    <string name="greeting_text">Hello!\nWhere will you go?</string>
+
+    <!-- Search Bar Hint -->
+    <string name="search_hint">Search</string>
+
+    <!-- App Description -->
+    <string name="app_description">Travel Go merupakan solusi praktis bagi para traveler dan pecinta wisata yang ingin menemukan destinasi lokal terbaik. Aplikasi ini menyediakan informasi lengkap mengenai tempat wisata, mulai dari kategori wisata alam, sejarah, budaya. Setiap destinasi dilengkapi dengan deskripsi dan foto.</string>
+
+    <!-- Recommendation Title -->
+    <string name="recommendation_title">Recommendation</string>
+
+    <!-- Destination Info -->
+    <string name="destination_name_borobudur">Candi Borobudur</string>
+    <string name="destination_title_borobudur">Candi Borobudur</string>
+    <string name="destination_location_borobudur">Magelang, Indonesia</string>
+    <string name="destination_rating_borobudur">4.9/5</string>
+    <string name="destination_description_borobudur">Candi Borobudur adalah salah satu candi Buddha terbesar di dunia dan merupakan warisan budaya yang sangat berharga di Indonesia. Terletak di Magelang, Jawa Tengah, sekitar 40 km dari Yogyakarta, candi ini dibangun pada abad ke-8 hingga ke-9 oleh Dinasti Syailendra. Borobudur dirancang dengan arsitektur unik berbentuk piramida bertingkat yang terdiri dari sembilan platform bertingkat – enam berbentuk persegi dan tiga berbentuk lingkaran – yang puncaknya ditandai dengan stupa utama besar.</string>
+
+    <string name="destination_name_dufan">Dufan</string>
+    <string name="destination_title_dufan">Dufan</string>
+    <string name="destination_location_dufan">Jakarta, Indonesia</string>
+    <string name="destination_rating_dufan">4.9/5</string>
+    <string name="destination_description_dufan">Dufan menyediakan berbagai zona bertema yang menawarkan pengalaman unik bagi setiap pengunjung. Beberapa zona favorit antara lain Amerika, Indonesia, Asia, Eropa, Yunani, dan Fantasy Lights yang menghadirkan wahana-wahana menarik dari seluruh dunia. Dari wahana ekstrem yang menantang adrenalin, hingga permainan yang lebih santai dan cocok untuk segala usia, Dufan memiliki daya tarik bagi berbagai kalangan.</string>
+
+    <string name="destination_name_kalimantung">Pulau Kalimantung</string>
+    <string name="destination_title_kalimantung">Pulau Kalimantung</string>
+    <string name="destination_location_kalimantung">Sibolga, Indonesia</string>
+    <string name="destination_rating_kalimantung">4.9/5</string>
+    <string name="destination_description_kalimantung">Pulau Kalimantung adalah sebuah pulau kecil yang terletak di Kabupaten Tapanuli Tengah, Sumatera Utara. Terkenal dengan keindahan alamnya yang masih asri dan belum banyak terjamah, Pulau Kalimantung menawarkan suasana tenang dengan pantai berpasir putih dan air laut yang jernih kebiruan. Pulau ini adalah destinasi sempurna bagi para pencari ketenangan dan keindahan alam yang alami.</string>
+
+    <string name="destination_name_bajo">Labuan Bajo</string>
+    <string name="destination_title_bajo">Labuan Bajo</string>
+    <string name="destination_location_bajo">Nusa Tenggara Timur, Indonesia</string>
+    <string name="destination_rating_bajo">4.9/5</string>
+    <string name="destination_description_bajo">Selain sebagai akses menuju Pulau Komodo dan Rinca, Labuan Bajo terkenal dengankeindahan alamnya yang memukau dan pantainya yangeksotis, menjadikannya salah satu destinasi wisata favorit
+di Indonesia.</string>
+
+    <string name="destination_name_karang">Pulau Karang</string>
+    <string name="destination_title_karang">Pulau Karang</string>
+    <string name="destination_location_karang">Barus, Indonesia</string>
+    <string name="destination_rating_karang">4.9/5</string>
+    <string name="destination_description_karang">Pulau Karang adalah sebuah pulau kecil yang terletak di Kabupaten Tapanuli Tengah, Sumatera Utara. Dikenal dengan suasana alami yang tenang dan pemandangan laut biru yang jernih, Pulau Karang merupakan destinasi wisata tersembunyi yang menawarkan pengalaman eksotis di tengah perairan Nusantara. Pulau ini dikelilingi oleh formasi karang yang indah dan terumbu karang yang masih alami, sehingga cocok untuk wisata bahari.</string>
+
+    <string name="footer_text">TravelGo</string>
 </resources>

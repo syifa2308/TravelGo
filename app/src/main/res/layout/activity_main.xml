@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E0F7FA">
+    android:background="@drawable/background_gradient">
 
-
-    <!-- Nama Aplikasi -->
+    <!-- Logo Aplikasi -->
     <ImageView
         android:id="@+id/logoImage"
         android:layout_width="311dp"
         android:layout_height="499dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="50dp"
         android:src="@drawable/travel_logo" />
 
+    <!-- Nama Aplikasi -->
     <TextView
         android:id="@+id/appNameText"
         android:layout_width="wrap_content"
@@ -22,10 +20,11 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:fontFamily="cursive"
-        android:text="Travel Go"
+        android:text="@string/app_name"
         android:textColor="#000000"
         android:textSize="50sp" />
 
+    <!-- Tombol Get Start -->
     <Button
         android:id="@+id/buttonGetStart"
         android:layout_width="wrap_content"
@@ -33,9 +32,8 @@
         android:layout_below="@id/appNameText"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:backgroundTint="#90CAF9"
-        android:text="Get Start!"
+        android:backgroundTint="#93C7DF"
+        android:text="@string/button_get_start"
         android:textColor="#FFFFFF"
         android:textSize="25sp" />
-
 </RelativeLayout>

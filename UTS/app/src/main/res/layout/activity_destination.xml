@@ -183,7 +183,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/kalimantung" />
+                    android:src="@drawable/pulau_kalimantung" />
 
                 <TextView
                     android:id="@+id/textDestinationNameTiga"
@@ -281,7 +281,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/karang" />
+                    android:src="@drawable/pulau_karang" />
 
                 <TextView
                     android:id="@+id/textDestinationNameLima"
